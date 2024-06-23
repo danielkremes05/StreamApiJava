@@ -2,11 +2,11 @@ package interfaces.consumer;
 
 import java.util.Objects;
 
-public class People {
+public class Person implements Comparable<Person> {
     private String name;
     private int age;
 
-    public People (int age, String name) {
+    public Person (String name, int age) {
         this.age = age;
         this.name = name;
     }
@@ -23,8 +23,8 @@ public class People {
     public boolean equals (Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-        People people = (People) o;
-        return Objects.equals(name, people.name);
+        Person person = (Person) o;
+        return Objects.equals(name, person.name);
     }
 
     @Override
@@ -35,5 +35,14 @@ public class People {
     @Override
     public String toString () {
         return "People " + "age=" + age + ", name='" + name + '\'';
+    }
+
+    @Override
+    public int compareTo (Person other) {
+        return this.name.compareTo(other.name);
+    }
+
+    public int compareToAge (Person other) {
+        return Integer.compare(this.age, other.age);
     }
 }
