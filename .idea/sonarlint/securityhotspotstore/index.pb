@@ -9,3 +9,5 @@ S
 ,src/interfaces/consumer/MainConsumerTwo.java,6\4\64504ba4cb24930e070eeea753f063a5deca1f16
 A
 StreamApiJava.iml,f\0\f0498bbf5a2387991aab5384c35843072c08a0f3
+Y
+)src/interfaces/supplier/MainSupplier.java,1\5\1524def4f47652b9d26f37a93b8c932fd0810349
