@@ -11,3 +11,5 @@ A
 StreamApiJava.iml,f\0\f0498bbf5a2387991aab5384c35843072c08a0f3
 Y
 )src/interfaces/supplier/MainSupplier.java,1\5\1524def4f47652b9d26f37a93b8c932fd0810349
+Y
+)src/interfaces/function/MainFunction.java,d\1\d1d10a130bf42255661fa1ef11d53e9d4d794c48
