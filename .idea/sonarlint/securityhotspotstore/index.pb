@@ -13,3 +13,7 @@ Y
 )src/interfaces/supplier/MainSupplier.java,1\5\1524def4f47652b9d26f37a93b8c932fd0810349
 Y
 )src/interfaces/function/MainFunction.java,d\1\d1d10a130bf42255661fa1ef11d53e9d4d794c48
+S
+#src/interfaces/function/People.java,b\7\b785b93684608edbdf47f9ab4ac043e7f5661191
+Z
+*src/interfaces/function/PeopleBuilder.java,5\b\5bd029cdbf58ffc4396e1e85e3c4f0cf7277e463
