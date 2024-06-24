@@ -17,3 +17,9 @@ S
 #src/interfaces/function/People.java,b\7\b785b93684608edbdf47f9ab4ac043e7f5661191
 Z
 *src/interfaces/function/PeopleBuilder.java,5\b\5bd029cdbf58ffc4396e1e85e3c4f0cf7277e463
+[
++src/interfaces/predicate/MainPredicate.java,0\2\02b195c922a1e038a2343561a9f04557241a0869
+T
+$src/interfaces/predicate/Person.java,d\a\da1fddce8d723879812e0161d726032c00b7619b
+^
+.src/interfaces/predicate/MainPredicateTwo.java,e\6\e6d180def4b414d38facf48b835ab6676c89822c
